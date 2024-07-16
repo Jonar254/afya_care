@@ -14,7 +14,7 @@ const sentryWebpackPluginOptions = {
     // For all available options, see:
     // https://github.com/getsentry/sentry-webpack-plugin#options
 
-    org: "jay-software-solutions-6n",  // Ensure this matches your actual Sentry organization
+    org: "jay-software-solutions",  // Ensure this matches your actual Sentry organization
     project: "javascript-nextjs",  // Ensure this matches your actual Sentry project
 
     // Only print logs for uploading source maps in CI
